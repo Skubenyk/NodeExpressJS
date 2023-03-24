@@ -1,0 +1,17 @@
+{
+  "name": "node_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yevhenii Skubenyk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "currency-converter-lt": "^2.0.0-beta.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
